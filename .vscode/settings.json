@@ -1,0 +1,7 @@
+{
+    "prettier.singleAttributePerLine": false,
+    "prettier.semi": true,
+    "prettier.jsxSingleQuote": false,
+    "prettier.bracketSameLine": true,
+    "prettier.trailingComma": "es5"
+}
